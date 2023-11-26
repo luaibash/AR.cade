@@ -24,11 +24,11 @@ function Mario() {
         <div className="row">
           <div className="iconContainer">
               <img className='icon' src={LeftLeg} alt='Left'/>
-              Move left
+              Left
           </div>
           <div className="iconContainer">
               <img className='icon' src={RightLeg} alt='Right'/>
-              Move Right
+              Right
           </div>
         </div>
         <div className="row">
@@ -38,7 +38,7 @@ function Mario() {
           </div>
           <div className="iconContainer">
               <img className='icon' src={Squat} alt='Squat'/>
-              Sprint/Throw
+              Sprint
           </div>
         </div>
         <div className="row">

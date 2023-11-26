@@ -340,8 +340,8 @@ def main():
   last_keys = SPLIT * [[]]
 
   cap = cv2.VideoCapture(INPUT)
-  width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
-  height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+  width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))  
+  height = int(int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))/1.86)
 
   # Set a specific aspect ratio (e.g., 16:9)
   target_aspect_ratio = 4/3

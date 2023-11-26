@@ -24,17 +24,17 @@ function CrossyRoad() {
         <div className="row">
           <div className="iconContainer">
               <img className='icon' src={Left} alt='Left'/>
-              Move left
+              Left
           </div>
           <div className="iconContainer">
               <img className='icon' src={Right} alt='Right'/>
-              Move Right
+              Right
           </div>
         </div>
         <div className="row">
           <div className="iconContainer">
               <img className='icon' src={Jump} alt='Jump'/>
-              Play Again
+              Play
           </div>
           <div className="iconContainer">
               <img className='icon' src={RightLeg} alt='Squat'/>
