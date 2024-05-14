@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="./ReadMeAssets/Logo.png" alt="Arcade logo" title="Arcade logo" width="50%" />
+  <img src="./ReadMeAssets/logo.png" alt="Arcade logo" title="Arcade logo" width="50%" />
 </div>
 
 ## Inspiration
